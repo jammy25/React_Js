@@ -2,7 +2,7 @@
 function App() {
 
   return (
-    <h1>React with vite and coffee | KS</h1>
+    <h1>React with vite and coffee | KKS</h1>
   )
 }
 
