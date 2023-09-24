@@ -1,6 +1,11 @@
+import MakingCoffee from "./Coffee";
+
 function App() {
   return (
-    <h1>React and chai | KKS</h1>
+    <>
+    <h1>React and chai | Kishan</h1>
+    <MakingCoffee/>
+    </>
     
   );
 }
