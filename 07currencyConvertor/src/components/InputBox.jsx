@@ -26,6 +26,7 @@ function InputBox({
                     type="number"
                     placeholder="Amount"
                     disabled={amountDisable}
+                    value={amount}
                 />
             </div>
             <div className="w-1/2 flex flex-wrap justify-end text-right">
