@@ -26,7 +26,7 @@ function InputBox({
                     type="number"
                     placeholder="Amount"
                     disabled={amountDisable}
-                    value={amounts}
+                    value={amount}
                     
                 />
             </div>
